@@ -22,4 +22,11 @@ You may need some more Freeware Tools:
 
 [![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=DZUZXE2WCJU4U)
 
+# Screenshots
+Be aware, game timer is set for real hardware device and may run to slow on emulator!
+
+![game screenshot](/Tetris_Screenshot.png?raw=true "screenshot") 
+![game screenshot](/Tetris_Screenshot2.png?raw=true "screenshot") 
+![game screenshot](/Tetris_Screenshot3.png?raw=true "screenshot") 
+![start screen](/Tetris_StartScreen.png?raw=true "start screen")
 
