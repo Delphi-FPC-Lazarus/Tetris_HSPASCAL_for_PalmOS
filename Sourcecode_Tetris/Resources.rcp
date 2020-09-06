@@ -1,0 +1,42 @@
+// Original file name: Resources.rcp
+
+// Midi
+MIDI 1000 "Sounds\\MenueMusic.mid"
+
+// Translations
+
+// Forms
+
+// Menus
+
+// Alerts
+
+// Strings
+
+// Bitmaps
+
+//BITMAP ID 1 "Images\\1bw.bmp" COMPRESS
+
+//BITMAPFAMILY ID 1 "1bw.bmp" "" "" "1color.bmp" TRANSPARENT 255 255 255 NOCOMPRESS
+//BITMAPFAMILY ID 1 "" "" "" "Images\\1.bmp" COMPRESS
+//BITMAPFAMILY ID 2 "" "" "" "Images\\2.bmp" COMPRESS
+
+BITMAPCOLOR ID 1 "Images\\MenueBg.bmp"
+BITMAPCOLOR ID 2 "Images\\SpielfeldBg.bmp"
+
+BITMAPCOLOR ID 10 "Images\\Stein0.bmp"
+BITMAPCOLOR ID 11 "Images\\Stein1.bmp"
+BITMAPCOLOR ID 12 "Images\\Stein2.bmp"
+BITMAPCOLOR ID 13 "Images\\Stein3.bmp"
+BITMAPCOLOR ID 14 "Images\\Stein4.bmp"
+BITMAPCOLOR ID 15 "Images\\Stein5.bmp"
+BITMAPCOLOR ID 16 "Images\\Stein6.bmp"
+
+BITMAPCOLOR ID 19 "Images\\SteinLeer.bmp"
+BITMAPCOLOR ID 20 "Images\\Rollo.bmp"
+
+// Traps
+
+// Application
+
+ICONFAMILY "Images/IconSW.bmp" "" "" "Images/Icon.bmp" TRANSPARENT 255 255 255
