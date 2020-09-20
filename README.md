@@ -1,5 +1,5 @@
 # Tetris_HSPASCAL_for_PalmOS
-Game "Senso" written in HSPASCAL for PalmOS on old PALM devices like Palm IIIc, PALM M series and compatible devices. This Code was implemented for an interactive Geocache.
+Game "Tetris" written in HSPASCAL for PalmOS on old PALM devices like Palm IIIc, PALM M series and compatible devices. This Code was implemented for an interactive Geocache.
 
 ## What it is 
 You can use this code to build up your own interactive geocache and publish it on geocaching.com or opencaching.de.
